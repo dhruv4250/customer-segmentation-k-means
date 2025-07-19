@@ -21,7 +21,7 @@ A retail company wants to target different customer types with different marketi
 - Python, Pandas, NumPy
 - Seaborn, Matplotlib, Plotly
 - Scikit-learn
-- Google Colab
+- Google Colab (majorly)
 - GitHub
 
 ---
